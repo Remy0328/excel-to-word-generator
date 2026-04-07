@@ -1,6 +1,11 @@
 # Excel 数据 → Word 模板填充工具
 
 将 Excel 表格数据批量填充到 Word 模板中，生成个性化文档。
+效果展示
+<img width="1005" height="995" alt="image" src="https://github.com/user-attachments/assets/01884738-77bc-4b8f-a563-517f73528a21" />
+参考数据展示
+<img width="1016" height="201" alt="image" src="https://github.com/user-attachments/assets/20dfb2b9-12d0-467c-a8f6-b346bd1bdc47" />
+<img width="990" height="960" alt="image" src="https://github.com/user-attachments/assets/6761e5d3-ee28-4284-b61a-5f6d508b5de9" />
 
 ## 功能特性
 
