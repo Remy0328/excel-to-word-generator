@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.spec
+
+# Virtual env
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# Output files (generated Word documents)
+output/
+*.docx
+
+# Windows
+Thumbs.db
+.DS_Store
+
+# Temporary scripts
+push-*.js
